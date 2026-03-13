@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: /content/fireyolo26/fire/train/images
+val: /content/fireyolo26/fire/valid/images
+test: /content/fireyolo26/fire/test/images
 
 nc: 3
 names: ['Fire', 'Smoke','other']
